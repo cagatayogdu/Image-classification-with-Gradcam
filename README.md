@@ -2,6 +2,9 @@
 
 This project aims to develop a method for detection and analysis using deep learning models on images of damaged and undamaged cultural heritage structures, contributing to the preservation of cultural heritage. Acknowledging the fact that cultural structures can deteriorate over time due to external factors such as natural and social disasters, the project emphasizes the importance of detecting and analyzing damage to these structures.
 
+This work has been published in IEEE. The full paper is available at:
+https://doi.org/10.1109/ICSH62408.2024.10779884
+
 ## Aim and Methodology
 The aim of this project is to develop an effective method for the preservation of cultural heritage. This method aims to identify damaged areas of structures and analyze them visually using deep learning and image processing techniques. This enables a clearer identification and analysis of damaged areas in the image. This method could play an important role in the preservation of cultural heritage by identifying damaged areas and directing them towards restoration.
 
